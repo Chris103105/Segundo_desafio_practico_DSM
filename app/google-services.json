@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805452599056",
+    "project_id": "segundo-desafio-prac-dsm",
+    "storage_bucket": "segundo-desafio-prac-dsm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805452599056:android:52a10f8e60e22d0bcc1f95",
+        "android_client_info": {
+          "package_name": "edu.udb.segundo_desafio_practico_dsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjxqZ5pH6bo9P935i7-v_eoOkCBaukVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
